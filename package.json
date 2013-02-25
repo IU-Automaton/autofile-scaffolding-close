@@ -1,0 +1,25 @@
+{
+  "name": "autofile-scaffolding-close",
+  "version": "0.0.1",
+  "description": "Close {{placeholders}} in files.",
+  "main": "autofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IU-Automaton/autofile-scaffolding-close"
+  },
+  "keywords": [
+    "autofile",
+    "automaton",
+    "task",
+    "glob",
+    "scaffolding",
+    "close",
+    "placeholder"
+  ],
+  "author": "Indigo United",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
