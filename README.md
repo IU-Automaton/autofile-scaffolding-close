@@ -1,9 +1,9 @@
 `automaton task` - http://indigounited.com/automaton
 
-rm
+scaffolding-close
 ===
 
-Remove file or set of files.
+Close `{{placeholders}}` in files.
 
 *Indigo United 2013*
 
