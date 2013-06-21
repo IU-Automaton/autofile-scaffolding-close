@@ -1,11 +1,12 @@
+/*global describe, it, beforeEach, after*/
+
 'use strict';
 
-var fs        = require('fs'),
-    expect    = require('expect.js'),
-    rimraf    = require('rimraf'),
-    close     = require('../autofile'),
-    automaton = require('automaton').create()
-;
+var fs        = require('fs');
+var expect    = require('expect.js');
+var rimraf    = require('rimraf');
+var close     = require('../autofile');
+var automaton = require('automaton').create();
 
 describe('scaffolding-close', function () {
     function clean(done) {
